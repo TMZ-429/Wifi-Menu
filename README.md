@@ -1,4 +1,4 @@
-wifi-menu, by SD
+wifi-menu, by TMZ
 
 Install:
 ```
